@@ -1,5 +1,7 @@
 # Google Translator Clone 📝🌎  
 
+🚀 **Live Demo:** [Google Translator Clone](https://translator-6e33c.web.app/)  
+
 A Google Translator clone built using **Vite + React.js, Firebase (Backend), ShadCN UI, Material UI, and Tailwind CSS** for a seamless translation experience.  
 
 ## 🚀 Features  
