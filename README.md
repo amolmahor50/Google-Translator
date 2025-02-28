@@ -24,7 +24,7 @@ A Google Translator clone built using **Vite + React.js, Firebase (Backend), Sha
 
 ---
 
-## 📦 Installation & Setup  
+## 📦 Run App
 
 ### **1️⃣ Start a Vite App**  
 ```sh
